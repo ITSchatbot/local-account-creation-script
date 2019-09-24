@@ -1,0 +1,5 @@
+https://www.c-sharpcorner.com/article/how-to-create-windows-local-user-account-using-c-sharp/
+
+https://support.microsoft.com/en-za/help/306273/how-to-add-a-user-to-the-local-system-by-using-directory-services-and
+
+https://www.codeproject.com/Articles/18102/Howto-Almost-Everything-In-Active-Directory-via-C
